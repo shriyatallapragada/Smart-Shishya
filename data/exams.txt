@@ -1,0 +1,7 @@
+15-03-2025 : Mid-1 Exam - Data Structures
+17-03-2025 : Mid-1 Exam - OOP (Java)
+20-04-2025 : Lab Internal Assessment
+10-05-2025 : Semester End Exam - DS
+12-05-2025 : Semester End Exam - OOP
+29-12-2025 : task1
+30-12-2025 : task 2
