@@ -24,5 +24,5 @@ The project demonstrates core Java concepts including:
 
 ## 👥 Contributors
 * **Shriya Tallapragada**: Project Integration and Library Module.
-* **Supraja Tatikonda**: To-Do List Module.
+* **Supraja Tatikonda**: To-Do List Module creation.
 * **Jahnavi Yenumula**: Scheduler/Calendar Module.
